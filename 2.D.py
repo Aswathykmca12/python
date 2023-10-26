@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 list=[]
 for i in range(0,5):
     n=int(input("Enter the num:"))
