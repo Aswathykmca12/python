@@ -3,3 +3,4 @@ n=str(n)
 nn=n+n
 nnn=n+n+n
 sum=n+nn+nnn
+print("sum",sum)
